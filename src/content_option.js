@@ -173,8 +173,8 @@ const contactConfig = {
 
 const socialprofils = {
     github: "https://github.com/GlenvinRosario?tab=repositories",
-    facebook: "https://www.facebook.com/glen.rosario.10",
-    linkedin: "https://www.linkedin.com/in/glenvin-anil-rosario/"
+    linkedin: "https://www.linkedin.com/in/glenvin-anil-rosario/",
+    facebook: "https://www.facebook.com/glen.rosario.10"
 };
 export {
     meta,
