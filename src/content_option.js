@@ -137,67 +137,29 @@ const services = [
     },
 ];
 
-const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+const dataportfolio = [
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/images/tac-design-project-image.png",
+        description: "Dawn is an automated Adobe tool that enables agents to configure Amazon Connect by simply filling out a form",
+        link: "https://www.tacdesignlab.org/",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "Dawn is an automated Adobe tool that enables agents to configure Amazon Connect by simply filling out a form",
         link: "#",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
+        description: "OAC (Omnichannel Agent Console) is Adobe’s unified platform for agents to handle chat, voice, customer queries, and cold calling seamlessly.",
         link: "#",
     },
     {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "/images/search-image.png",
+        description: "A search app that displays relevant images for HTTP status codes",
+        link: "https://search-web-platform.vercel.app/",
     },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+    //
+ 
 ];
 
 const contactConfig = {
@@ -212,8 +174,7 @@ const contactConfig = {
 const socialprofils = {
     github: "https://github.com/GlenvinRosario?tab=repositories",
     facebook: "https://www.facebook.com/glen.rosario.10",
-    linkedin: "https://www.linkedin.com/in/glenvin-anil-rosario/",
-    twitter: "https://twitter.com",
+    linkedin: "https://www.linkedin.com/in/glenvin-anil-rosario/"
 };
 export {
     meta,
